@@ -6,9 +6,9 @@
 
 *I program because I like to.*
 
-Mostly, I'm just doing random things. With a background in electronics, I love working with hardware and basically anything cool I can write code for. With over 8 years of development experience, I've learned Rust, JS, and a few other things in my journey to build whatever I need.
+Mostly, I'm just doing random things. Coming from an electronics background, I love working with hardware and basically anything cool I can write code for. I have over 8 years of development experience, and along the way, I've learned Rust, JS, and whatever else I need to get things built.
 
-> **Note:** My old GitHub account got banned, so I'm back to this one. I mostly work on private repos and private projects these days, but I might drop a public repo next month.
+> **Note:** My old GitHub account got banned, so I'm back on this one. These days I mostly work on private repos and projects, but I might drop something public next month.
 
 ### Stack
 
@@ -23,7 +23,7 @@ Mostly, I'm just doing random things. With a background in electronics, I love w
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dragonxzcay&show_icons=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&icon_color=2ea043&border_color=2ea043&hide_border=true" alt="Dragon's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dragonxzcay&show_icons=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&icon_color=2ea043&border_color=2ea043&hide_border=true" alt="This Is My StAts !!!!!!!!" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonxzcay&layout=compact&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&border_color=2ea043&hide_border=true" alt="Top Langs" height="150" />
 </p>
 
@@ -36,7 +36,7 @@ Mostly, I'm just doing random things. With a background in electronics, I love w
 ### Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dragonxzcay/dragonxzcay/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/dragonxzcay/dragonxzcay/output/github-contribution-grid-snake-dark.svg" alt="I tamed this snake a while ago :>" />
 </p>
 
 > You can contact me on Discord at **`1rfs`**

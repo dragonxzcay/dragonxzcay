@@ -22,20 +22,20 @@ Mostly, I'm just doing random things. Coming from an electronics background, I l
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=dragonxzcay&theme=darkhub&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dragonxzcay&show_icons=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&icon_color=2ea043&border_color=2ea043&hide_border=true" alt="Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dragonxzcay&layout=compact&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&border_color=2ea043&hide_border=true" alt="WakaTime Stats" height="150" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonxzcay&bg_color=0d1117&color=c9d1d9&line=2ea043&point=99ff99&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/dragonxzcay/dragonxzcay/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 

@@ -1,14 +1,18 @@
+<div align="center">
+
 # Just call me Dragon.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dragonxzcay&color=2ea043&style=flat-square" alt="Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=dragonxzcay&color=2ea043&style=flat-square" alt="Views" />
 
 *I program because I like to.*
 
-Mostly, I'm just doing random things. Coming from an electronics background, I love working with hardware and basically anything cool I can write code for. I have over 8 years of development experience, and along the way, I've learned Rust, JS, and whatever else I need to get things built.
+Whether I'm developing systems for MZ Global LLC or experimenting with hardware, I love anything cool I can write code for. I have over 8 years of development experience, and along the way, I've learned Rust, JS, and whatever else I need to get things built.
 
 > **Note:** My old GitHub account got banned, so I'm back on this one. These days I mostly work on private repos and projects, but I might drop something public next month.
+
+</div>
+
+# &nbsp;
 
 ### Stack
 
@@ -20,31 +24,34 @@ Mostly, I'm just doing random things. Coming from an electronics background, I l
 | **Hardware** | <img src="https://img.shields.io/badge/STM32-2ea043?style=flat-square&logo=stmicroelectronics&logoColor=99ff99" /> <img src="https://img.shields.io/badge/ESP32-2ea043?style=flat-square&logo=espressif&logoColor=99ff99" /> <img src="https://img.shields.io/badge/Arduino-2ea043?style=flat-square&logo=arduino&logoColor=99ff99" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-2ea043?style=flat-square&logo=raspberrypi&logoColor=99ff99" /> |
 | **Bots & Security** | <img src="https://img.shields.io/badge/Discord%20API-2ea043?style=flat-square&logo=discord&logoColor=99ff99" /> *(I mostly use Rust with Poise & Serenity to make my bots)* <br> <img src="https://img.shields.io/badge/Cloudflare-2ea043?style=flat-square&logo=cloudflare&logoColor=99ff99" /> <img src="https://img.shields.io/badge/Sentry-2ea043?style=flat-square&logo=sentry&logoColor=99ff99" /> |
 
-<br>
+# &nbsp;
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=dragonxzcay&theme=darkhub&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dragonxzcay&show_icons=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&icon_color=2ea043&border_color=2ea043&hide_border=true" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dragonxzcay&layout=compact&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&border_color=2ea043&hide_border=true" alt="WakaTime Stats" height="150" />
 </p>
 
-<p align="left">
+# &nbsp;
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonxzcay&bg_color=0d1117&color=c9d1d9&line=2ea043&point=99ff99&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-<p align="left">
+# &nbsp;
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/dragonxzcay/dragonxzcay/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<br>
+# &nbsp;
 
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/734071107354624051">
-    <img src="https://lanyard.cnrad.dev/api/734071107354624051?bg=0d1117&borderRadius=10&idleMessage=Probably%20writing%20Rust...&color=2ea043" alt="Discord Presence" />
+    <img src="https://discord-activity-card.vercel.app/api/status/734071107354624051?bg=0d1117&border=2ea043&title=2ea043&name_color=2ea043&text=c9d1d9&profile=true&small_image=true" alt="My Discord Activity" />
   </a>
 </p>
 
+<div align="center">
+
 > You can contact me on Discord at **`1rfs`**
+
+</div>

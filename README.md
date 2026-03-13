@@ -1,16 +1,13 @@
-## Hi there 👋
+# Just call me Dragon.
 
-<!--
-**dragonxzcay/dragonxzcay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I program because I like to.*
 
-Here are some ideas to get you started:
+Mostly, I'm just doing random things. With a background in electronics, I love working with hardware and basically anything cool I can write code for. I've been developing for a long time, and in my journey, I've learned Rust, JS, and a few other things to build whatever I need.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### The Stack
+
+<img src="https://img.shields.io/badge/Rust-2ea043?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-2ea043?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-2ea043?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Java-2ea043?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-2ea043?style=flat-square&logo=cplusplus&logoColor=white" />
+
+### Contact
+
+> Reach out to me on Discord at **`1rfs`**

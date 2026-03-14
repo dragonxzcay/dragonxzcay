@@ -6,7 +6,7 @@
 
 *I program because I like to.*
 
-Mostly, I'm just doing random things. Coming from an electronics background, I love working with hardware and basically anything cool I can write code for. I have over 8 years of development experience, and along the way, I've learned Rust, JS, and whatever else I need to get things built.
+Mostly, I'm just doing random things. I love working with hardware and basically anything cool I can write code for. I have over 8 years of development experience, and along the way, I've learned Rust, JS, and whatever else I need to get things built.
 
 > **Note:** My old GitHub account got banned, so I'm back on this one. These days I mostly work on private repos and projects, but I might drop something public next month.
 
